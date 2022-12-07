@@ -41,7 +41,7 @@ $sudo su
 </br>
 Ao fazer isso, o proximo passo é listar o iptables e saber se as tabelas foram aceitas, o que vem por padrão
 </br>
--# iptables -L
+![Badge]-# iptables -L
 
 O proximo passo é tentar adiconar um IP na tabela input
 </br>
