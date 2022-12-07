@@ -31,7 +31,9 @@ Abrir o terminal e seu linux e digitar o seguinte comando
 </br>
 $apt-get install iptables
 </br>
-Para seguir para o proximo passo voce deve entrar no administrador do sistemas 
+Esse comando irá instalar o IPtables no seu terminal.
+</br>
+Para seguir para o proximo passo você deve entrar no administrador do sistemas 
 </br>
 
 $sudo su
