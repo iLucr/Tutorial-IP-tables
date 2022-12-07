@@ -76,5 +76,9 @@ para listar o bloco por numero.
 Para remover uma regra da CHAIN pelo número.
 -# iptables -D INPUT 3 
 
+Video
+-------------
+
+
 
 
