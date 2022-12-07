@@ -18,6 +18,7 @@ Ao fazer isso, o proximo passo é listar o iptables e saber se as tabelas foram 
 -# iptables -L
 
 O proximo passo é tentar adiconar um IP na tabela input
+</br>
 -# iptables -A INPUT -i 10 -j ACCEPT
 O IP 10 não é aceito 
 
