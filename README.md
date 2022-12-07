@@ -30,10 +30,12 @@ Ao instalar todos os requisitos citados você deve fazer o seguinte:
 Abrir o terminal e seu linux e digitar o seguinte comando 
 </br>
 $apt-get install iptables
+</br>
 Para seguir para o proximo passo voce deve entrar no administrador do sistemas 
 </br>
 
 $sudo su
+</br>
 Ao fazer isso, o proximo passo é listar o iptables e saber se as tabelas foram aceitas, o que vem por padrão
 </br>
 -# iptables -L
