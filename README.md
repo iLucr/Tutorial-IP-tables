@@ -6,6 +6,8 @@
 
 Introdução
 -----------
+O Iptable precisa ser implementado no servidor Linux. IpTable é um programa escrito em C para configurar protocolos de IPv4
+o seguinte toturial implemneta o Iptables em um servidor linux
 Notas de instalação e verificação
 ----------
 Ao instalar todos os requisitos citados você deve fazer o seguinte:
@@ -46,6 +48,5 @@ Após feito isso utilizar o proximo comando para salvar as alterações
 Após, listar o bloco.
 </br>
 -# iptables -L
-</br>
--# iptables -L --line-number 
+
 
