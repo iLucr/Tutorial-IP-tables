@@ -55,7 +55,8 @@ O IP 10 não é aceito
 o comando host mais o dominio
 
 O proximo passo é adicionar o IP no bloco e adiconar as permissões do IP
-'-# iptables -A INPUT -s 157.240.216.35 -j DROP'
+</br>
+-# iptables -A INPUT -s 157.240.216.35 -j DROP
 DROP no caso nega as permissões do IP 
 Para verificar se as permissões fprma concedidas vamos utilizar o seguinte comando
 </br>
