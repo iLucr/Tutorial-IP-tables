@@ -31,7 +31,7 @@ O proximo passo é adicionar o IP no bloco e adiconar as permissões do IP
 -# iptables -A INPUT -s 157.240.216.35 -j DROP
 DROP no caso nega as permissões do IP 
 Para verificar se as permissões fprma concedidas vamos utilizar o seguinte comando
-- ping 157.240.216.35
+- # ping 157.240.216.35
 se não pingar, funcionou. 
 
 Após feito isso utilizar o proximo comando para salvar as alterações 
