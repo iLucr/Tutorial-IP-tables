@@ -78,7 +78,7 @@ Para remover uma regra da CHAIN pelo número.
 
 Video
 -------------
-
+[![Watch the video](https://drive.google.com/file/d/1xz06bvspCuXHoXqUQS6cR6RB5u4dQ-5P/view?usp=sharing)]
 
 
 
