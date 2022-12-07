@@ -13,6 +13,11 @@ o seguinte tutorial implementa o Iptables em um servidor linux
 Requisitos de construção
 -------------
 Para conseguir utilizar o Iptables é necessario utiliza rum servidor, no caso foi utilizado um servidor VT Ubuntu, na mquina virtual 
+</br>
+https://www.virtualbox.org/
+</br>
+VirtualBox 7.0
+</br>
 https://ubuntu.com/download/server
 </br>
 Ubuntu Server 22.04 LTS 
