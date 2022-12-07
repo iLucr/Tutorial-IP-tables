@@ -69,5 +69,12 @@ Após feito isso utilizar o proximo comando para salvar as alterações
 Após, listar o bloco.
 </br>
 -# iptables -L
+</br>
+para listar o bloco por numero.
+-# iptables -L --line-number
+</br>
+Para remover uma regra da CHAIN pelo número.
+-# iptables -D INPUT 3 
+
 
 
