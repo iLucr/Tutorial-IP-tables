@@ -10,6 +10,11 @@ O Iptable precisa ser implementado no servidor Linux. IpTable é um programa esc
 o seguinte toturial implemneta o Iptables em um servidor linux
 
 
+Requisitos de construção
+-------------
+Para conseguir utilizar o Iptables é necessario utiliza rum servidor, no caso foi utilizado um servidor VT Ubuntu, na mquina virtual 
+
+
 Notas de instalação e verificação
 -------------
 Ao instalar todos os requisitos citados você deve fazer o seguinte:
